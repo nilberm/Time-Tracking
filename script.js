@@ -11,7 +11,6 @@ function monthly() {
 }
 
 
-const response = await fetch("./data.json")
-const data = await response.json()
+var json = JSON.parse('')
 
 
